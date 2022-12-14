@@ -1,5 +1,3 @@
 Preprocessing ---> python run_preprocess.py --chest_x_ray_path "data\files" --radiology_reports_path "data\files"
 
 Training ---> python run_train.py --cxr_filepath "C:\Ege\Tübitak\CheXzero\data\cxr.h5" --txt_filepath "C:\Ege\Tübitak\CheXzero\data\mimic_impressions.csv"
-
-
